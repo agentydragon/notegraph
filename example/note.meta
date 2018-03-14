@@ -1,0 +1,8 @@
+/note has type //notegraph/note.
+
+Being of the //notegraph/note type, it has text attached, which you can load
+from /node.md.
+
+Looking at the Markdown, we see that it refers to /other-note.
+So we can say that there's an edge from /note to /other-note, with the predicate
+//notegraph/note/link.

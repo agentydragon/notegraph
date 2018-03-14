@@ -30,6 +30,10 @@ Wishlist
 * Nice editor, with suggestion of links.
 * Notes are also URLs. (Semantic web.)
 * Edges are typed.
+* Referring to a GitHub repo's file.
+* Referring to a git commit.
+* Referring to a Google Keep note.
+* Full-text search.
 
 Usage ideas
 ===
@@ -48,3 +52,10 @@ Implementation ideas
 * Directory structure.
 
 "Quick note" workflow.
+
+A node has attached automation, depending on its type.
+
+A node's type can be inferred.
+
+Git: A presubmit check to check that this is a valid graph, that it parses.
+

@@ -1,0 +1,4 @@
+/card has type //notegraph/anki-card.
+
+To get the graph representation of the card, you can load the card's YAML file -
+card.yml.
