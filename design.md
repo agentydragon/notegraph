@@ -59,3 +59,7 @@ A node's type can be inferred.
 
 Git: A presubmit check to check that this is a valid graph, that it parses.
 
+Open problems
+===
+
+What about things like Pocket? What about things that keep their own history?
